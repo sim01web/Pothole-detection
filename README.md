@@ -1,6 +1,6 @@
 # Pothole Detection System
 
-This repository contains the implementation of a Pothole Detection System, where multiple machine learning (ML) and deep learning (DL) algorithms were applied and compared to determine the best-performing model. The primary goal of this system is to accurately detect potholes using various approaches and evaluate their performance.
+We implemented a Pothole Detection System, where multiple machine learning (ML) and deep learning (DL) algorithms were applied and compared to determine the best-performing model. The primary goal of this system is to accurately detect potholes using various approaches and evaluate their performance.
 
 ## Project Overview
 Potholes on roads are a significant safety concern and can cause severe damage to vehicles. Detecting potholes accurately using an automated system can help mitigate these issues. This project explores and compares various ML and DL algorithms to identify the optimal solution for pothole detection.
